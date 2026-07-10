@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alijeewrites.github.io/best-digital-products-to-sell-on-etsy/sitemap.xml
